@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/Message_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/Message_fr.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/bundle_en.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/bundle_fr.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/Message_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/Message_fr.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/Message_ir.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/Message_jp.properties" />
+      <base-name>Message</base-name>
+    </custom-resource-bundle>
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/bundle_en.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/bundle_fr.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/bundle_ir.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/org/example/fuel_consumption/bundle_jp.properties" />
+      <base-name>bundle</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
